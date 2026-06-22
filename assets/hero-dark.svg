@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150">
+<rect width="880" height="150" rx="12" fill="#0d1117" stroke="#21262d"/>
+<rect x="0" y="0" width="5" height="150" rx="2" fill="#58a6ff"/>
+<text x="40" y="62" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="34" font-weight="600" fill="#e6edf3">Allan Paulo de Souza</text>
+<text x="42" y="92" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="17" fill="#8b949e">AI / LLM systems engineer</text>
+<text x="42" y="124" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#7ee787">guarantees in code, not in the prompt</text>
+</svg>
